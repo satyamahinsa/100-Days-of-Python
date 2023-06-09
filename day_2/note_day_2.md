@@ -1,4 +1,4 @@
-# Day 2 - Memahami Tipe Data dan Bagaimana Memanipulasi Sebuah String
+# Day 2 - Memahami Tipe Data dan Memanipulasi Sebuah String
 
 ## 1. Tipe Data Primitif
 Tipe data dasar yang terkenal dan perlu diketahui di Python, antara lain **string**, **integer**, **float**, dan **boolean**.
