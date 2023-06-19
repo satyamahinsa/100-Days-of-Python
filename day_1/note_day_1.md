@@ -51,7 +51,31 @@ Fungsi dari **comment** adalah memberikan penjelasan suatu kode yang telah dibua
 
 Cara cepat mengubah baris kode menjadi **comment** adalah `Ctrl + /` 
 
-## 5. Variabel di Python
+Selain membuat comment pada satu baris, terdapat cara dalam membuat comment pada banyak baris, yaitu dengan menggunakan `'''` di awal dan akhir comment.
+
+```python
+'''
+Halo
+Ini merupakan comment pada banyak baris
+Coba gunakan cara ini
+'''
+```
+
+## 5. Menggunakan Escape Characters
+**Escape characters** digunakan untuk memasukkan karakter yang ilegal di dalam string. Cara menggunakannya adalah menambahkan garis miring terbalik `\` dan diikuti dengan karakter yang ingin anda masukkan.
+
+Beberapa escape characters di Python sebagai berikut:
+| Kode |                    Hasil                    |
+| ---- | ------------------------------------------- |
+| `\"` |                 Petik Dua                   |  
+| `\'` |                 Petik Satu                  |  
+| `\\` |            Garis Miring Terbalik            |  
+| `\n` |                  Baris Baru                 |  
+| `\r` | Memindahkan kursor ke awal baris berikutnya |  
+| `\t` |                    Tab                      |  
+| `\b` |         Menghapus satu karakter             |  
+
+## 6. Variabel di Python
 **Variabel** digunakan untuk menyimpan sebuah nilai atau data. Data yang ada di dalam variabel bisa diubah kapan saja. Penamaan sebuah variabel harus sesuai dengan isi dari data agar dapat dengan mudah dipahami.
 
 ```python
