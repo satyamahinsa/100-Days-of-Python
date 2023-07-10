@@ -2,7 +2,7 @@
 
 ## 1. Penggunaan for loop dengan List
 
-Perulangan for loop mudah dikombinasikan dengan list. Dengan menggunakan for loop, kita bisa melalui setiap elemen dan melakukan sebuah aksi terhadapnya secara individu.
+For loop didefinisikan dengan 2 kata kunci, yaitu `for` yang diikuti dengan variabel setiap elemen pada perulangan, lalu `in` yang diikuti dengan sebuah list. Perulangan for loop mudah dikombinasikan dengan list. Dengan menggunakan for loop, kita bisa melalui setiap elemen dan melakukan sebuah aksi terhadapnya secara individu.
 
 ```python
 hewan_berkaki_empat = ["Sapi", "Anjing", "Kucing"]
